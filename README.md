@@ -4,13 +4,13 @@ A console-based application for managing student grades with data persistence.
 
 ## Features
 
-- ➕ Add new students with unique IDs
-- 📊 Add grades (0-100) to students
-- 📈 Calculate and display averages
-- 🏆 Letter grade conversion (A-F)
-- 📋 Class-wide statistics
-- 💾 Auto-save/load data to/from files
-- 🔍 Student search and details view
+- Add new students with unique IDs
+- Add grades (0-100) to students
+- Calculate and display averages
+- Letter grade conversion (A-F)
+- Class-wide statistics
+- Auto-save/load data to/from files
+- Student search and details view
 
 ## Technologies
 
