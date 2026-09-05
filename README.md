@@ -33,8 +33,8 @@ A console-based application for managing student grades with data persistence.
 
 ## Screenshots
 
-<img width="934" height="713" alt="Screenshot 2026-09-05 015139" src="https://github.com/user-attachments/assets/6a902485-a42a-49b4-a6bb-94e3fdc25c4c" />
 <img width="939" height="710" alt="Screenshot 2026-09-05 015101" src="https://github.com/user-attachments/assets/68e709fc-c2a7-46cc-b0a9-e218e2865bf2" />
+<img width="934" height="713" alt="Screenshot 2026-09-05 015139" src="https://github.com/user-attachments/assets/6a902485-a42a-49b4-a6bb-94e3fdc25c4c" />
 
 ## Requirements
 
